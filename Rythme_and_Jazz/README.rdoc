@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ici la création d'une application personnelle. 
+Dans le cadre d'un besoin d'une association sportive. Pour la gestion et la coordination de ses adhérents.
+Connaitre les dates et heures de cours de danse, 
+Idem pour les spectacles, les soirées de l'association et autres informations.
+Possibilité de consulter les documents administratifs : 
+Cotisation payée ou non, 
+Certificats médicaux 
+Autres docs à échanger
 
-Things you may want to cover:
+Ruby Version 2.2.3
+Rails 4.2.5
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Utilisation des Gem Devise, et Rails Admin pour l'authentification sur le site et la gestion Administrateur.
