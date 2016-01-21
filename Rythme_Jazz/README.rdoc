@@ -1,0 +1,12 @@
+GEM :
+
+- rails admin : http://www.rubydoc.info/gems/rails_admin/0.8.1
+- devise : https://github.com/plataformatec/devise
+- pour les vidéos aller sur : http://www.synbioz.com/blog/gerer_les_videos_avec_youtube
+- bootstrap http://www.rubydoc.info/gems/bootstrap-sass/3.3.6
+
+- bootstrap theme template 
+https://wrapbootstrap.com/?ref=StartBootstrap
+
+
+
